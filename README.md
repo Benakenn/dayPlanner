@@ -1,1 +1,1 @@
-# dayPlanner
+# dayPlanner is an app to help organize a users busy schedule, because time is potential money.
